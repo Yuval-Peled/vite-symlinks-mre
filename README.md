@@ -4,7 +4,5 @@
 
 To reproduce:
 ```
-# This is optional if you don't have pnpm installed globally yet:
-# npm i -g pnpm
-cd vite && pnpm i && vitest;
+cd vite && npx pnpm i && vitest;
 ```
